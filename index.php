@@ -177,7 +177,7 @@
                 <!-- item start  -->
                 <div class="col-md-4 mt-md-0 mt-5">
                     <div class="card shadow rounded-0">
-                        <img src="<?php echo esc_url(get_template_directroy_uri(). '/images/project-3.jpg');?>" class="card-img-top rounded-0 img-fluid" alt="...">
+                        <img src="<?php echo esc_url(get_template_directory_uri(). '/images/project-3.jpg');?>" class="card-img-top rounded-0 img-fluid" alt="...">
                         <div
                             class="card-body our-courses-view-btn-hover d-flex flex-column justify-content-center align-items-center position-relative pb-4">
                             <div
@@ -213,7 +213,7 @@
                 <!-- item start  -->
                 <div class="col-md-4 mt-5">
                     <div class="card shadow rounded-0">
-                        <img src="images/project-5.jpg" class="card-img-top rounded-0 img-fluid" alt="...">
+                        <img src="<?php echo esc_url(get_template_directory_uri(). '/images/project-5.jpg')?>" class="card-img-top rounded-0 img-fluid" alt="...">
                         <div
                             class="card-body our-courses-view-btn-hover d-flex flex-column justify-content-center align-items-center position-relative pb-4">
                             <div
@@ -231,7 +231,7 @@
                 <!-- item start  -->
                 <div class="col-md-4 mt-5">
                     <div class="card shadow rounded-0">
-                        <img src="images/project-6.jpg" class="card-img-top rounded-0 img-fluid" alt="...">
+                        <img src="<?php echo esc_url(get_template_directory_uri(). '/images/project-6.jpg')?>" class="card-img-top rounded-0 img-fluid" alt="...">
                         <div
                             class="card-body our-courses-view-btn-hover d-flex flex-column justify-content-center align-items-center position-relative pb-4">
                             <div
