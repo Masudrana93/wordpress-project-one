@@ -13,14 +13,24 @@
                         
                         <div class="col-12 footer-address mt-3">
                             <a href="#" class="text-decoration-none">
-                                <i class="bi bi-geo-alt"></i>
-                                 New Circular Road, Mouchak Mor, Malibagh, Dhaka, Bangladesh
+                                <div class="d-flex">
+                                <i class="bi bi-geo-alt me-1"></i>
+                                 <p> New Circular Road, Mouchak Mor, Malibagh, Dhaka, Bangladesh</p>
+                                 </div>
                             </a>
                             <a href="tel:+8801715-038031" class="text-decoration-none d-block">
-                                <i class="bi bi-phone-vibrate"></i> +88001914449393
+                                <div class="d-flex">
+                                <i class="bi bi-phone-vibrate me-1"></i> 
+                                <p>+88001914449393</p>
+                                </div>
+                                
                             </a>
                             <a href="#" class="text-decoration-none d-block">
-                                <i class="bi bi-envelope-at"></i> masudrana@gmail.com
+                                <div class="d-flex">
+                                    <i class="bi bi-envelope-at me-1"></i> 
+                                    <p>masudrana@gmail.com</p>
+                                </div>
+                                
                             </a>
                         </div>
                     </div>
